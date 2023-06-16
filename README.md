@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Jesra! 👋
 
-<!--
-**JesraAli/JesraAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a University Computer Science student and am interested in software development
 
-Here are some ideas to get you started:
+- 👩‍💻 I’m currently working on creating my personal website, solving Project Euler problems 
+- 💻 I’m currently learning Haskell, Java
+- 🔨 Upcoming languages I want to learn: C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesraAli&layout=compact)
+
+[![My Skills](https://skillicons.dev/icons?i=haskell,c,java,vscode,html,css&theme=dark)](https://skillicons.dev)
+
