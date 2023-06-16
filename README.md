@@ -1,4 +1,4 @@
-## Hi there, I'm Jesra! 👋
+# Hi there, I'm Jesra! 👋
 
 I'm a University Computer Science student and am interested in software development
 
