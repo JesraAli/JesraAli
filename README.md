@@ -8,9 +8,6 @@ I'm a University Computer Science student and am interested in software developm
 
 ---
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JesraAli)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesraAli&layout=compact) 
 
 [![My Skills](https://skillicons.dev/icons?i=haskell,c,java,vscode,html,css&theme=dark)](https://skillicons.dev)
