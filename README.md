@@ -2,10 +2,10 @@
 
 I'm a University Computer Science student and am interested in software development
 
-- 👩‍💻 I’m currently working on experimenting in Rust, creating my game 'Lunatic Fairy' with SDL2 in C, solving Project Euler problems, updating my personal website 
-- 💻 I’m currently learning Rust
-- 🧠 Furthering my knowledge in: Haskell, Java
-- 🔨 Upcoming languages I want to learn: C++
+- 👩‍💻 I’m currently working on solving Project Euler problems, updating my personal website, and experimenting in Rust
+- 💻 I’m currently learning image processing techniques in Python using OpenCV, Matplotlib and Numpy, and also implementing various search heuristics and metaheuristics in Java
+- 🧠 Furthering my knowledge in: Java, Python, C#
+- 🔨 Upcoming languages I want to learn: C++, Rust
 
 ---
 
